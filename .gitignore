@@ -1,0 +1,45 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.DotSettings.user
+*.rsuser
+
+# Build intermediates
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cdb
+*.vsp
+*.vspx
+
+# Test results
+[Tt]est[Rr]esult*/
+TestResult.xml
+[Bb]uild[Ll]og.*
+
+# NuGet
+*.nupkg
+packages/
+
+# Publish output
+*.publish.xml
+
+# OS files
+.DS_Store
+Thumbs.db
